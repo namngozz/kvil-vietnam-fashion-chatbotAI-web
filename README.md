@@ -10,8 +10,8 @@ Dự án xây dựng một nền tảng Web Fullstack cho thương hiệu thời
 * Tra cứu đơn hàng tự động.
 
 ## 🛠 Công nghệ sử dụng (Tech Stack)
-* **Frontend:** React.js / Vue.js (hoặc HTML/CSS/JS thuần tùy dự án của bạn)
-* **Backend:** Node.js (Express) / Python (Flask/FastAPI)
+* **Frontend:** React.js 
+* **Backend:** Node.js (Express)
 * **Database:** MongoDB / MySQL
 * **AI Engine:** Google Gemini API / OpenAI API
 * **Tools:** Git, Postman, Docker (nếu có)
@@ -26,7 +26,7 @@ Dự án xây dựng một nền tảng Web Fullstack cho thương hiệu thời
 
 1. **Clone dự án:**
    ```bash
-   git clone [https://github.com/baonguyen179/kvil-vietnam-fashion-chatbotAI-web-fullstack.git](https://github.com/baonguyen179/kvil-vietnam-fashion-chatbotAI-web-fullstack.git)
+
 2. **Cài đặt backend**
    cd backend
    npm install
